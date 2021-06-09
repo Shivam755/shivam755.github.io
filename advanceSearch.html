@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Advance Search</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="advanceSearch.css" />
+  </head>
+  <body>
+    <!--Top div for links-->
+    <div class="top">
+
+      <div class="left logo">
+        <img id="logo" src="assets\google-advance-search_logo.png" />
+      </div>
+      <div></div>
+      <div class="right">
+        <div id="link">
+          <a class="link" href="imageSearch.html">Images</a>
+          <a class="link" href="index.html">Web</a>
+        </div>
+      </div>
+
+    </div>
+
+    <!--Main div for links-->
+    <div id="main">
+      <span class='h2'>Advance Search</div>
+      <hr />
+
+      <form id="fields" action="https://google.com/search">
+
+        <div class="row">
+          <p class="leftHead">Find Pages with...</p>
+          <p></p>
+          <p class="rightHead">To do this in the search box.</p>
+        </div>
+
+        <div class="row">
+          <label class='label'>all these words:</label>
+          <input class='text' type="text" name="as_q" />
+          <p class='des'>Type the important words tri-color rat terrier</p>
+        </div>
+
+        <div class="row">
+          <label class='label'>this exact word or phrase:</label>
+          <input class='text' type="text" name='as_epq'/>
+          <p class='des'>Put exact words in quotes "rat terrier"</p>
+        </div>
+
+        <div class="row">
+          <label class='label'>any of these words:</label>
+          <input class='text' type="text" name='as_oq'/>
+          <p class='des'>Type OR between all the words you want miniature OR standard</p>
+        </div>
+
+        <div class="row">
+          <label class='label'>none of these words:</label>
+          <input class='text' type="text" name="as_eq"/>
+          <p class='des'>
+            Put a minus sign before words you don't want:<br />-rodent, -"Jack
+            Russell"
+          </p>
+        </div>
+        
+        <div class='row'>
+          <div></div>
+          <div class='end'>
+            <input id='submit' type="submit" value="Advanced search" />
+          </div>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>

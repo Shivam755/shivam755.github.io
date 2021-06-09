@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>ImageSearch</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="imageSearch.css" />
+    <!--script src="imageSearch.js"></script-->
+  </head>
+  <body>
+    <!--Top element for links-->
+    <element id="top">
+      <element id="link">
+        <a class="link" href="index.html">Web</a>
+        <a class="link" href="advanceSearch.html">Advance</a>
+      </element>
+    </element>
+    <!--Main element for contents-->
+    <element id="main">
+      <!--Logo element for google logo-->
+      <element class="logo">
+        <img id="logo" src="assets\google_image_logo.png" alt="google logo" />
+      </element>
+
+      <form id="searchForm" action="https://google.com/search">
+        <!--Searchbar element for-->
+        <element id="searchBar">
+          <img id="searchLogo" src="assets\search_logo.png" />
+          <input id="searchInput" type="search" name="q" />
+
+          <button id="ImgSearch">
+            <img id="searchButton" src="assets\blue_search_logo.png" />
+          </button>
+        </element>
+        <input style="visibility: hidden" type="text" name="tbm" value="isch" />
+      </form>
+    </element>
+  </body>
+</html>

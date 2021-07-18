@@ -18,7 +18,7 @@ const create= (msg) =>{
 };
 
 msg = [{
-    msg:'Thank you so much ma\'am.',
+    msg:"Happy Birthday ma'am!!! Thank you so much for making this online college fun with your lectures. Thank you for always teaching a topic because it's important and not just because it's in the syllabus. We're really lucky to have you as your teacher. Hope you have a great year ahead :)",
     owner:'Shivam Gupta'
 },
 {

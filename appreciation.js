@@ -107,5 +107,8 @@ msg = [{
 },{
     msg:"Happy Birthday Edith ma'am .  Thank you for your constant love and support.",
     owner:'Purva Gawde'
+},{
+    msg:"Many many Happy returns of the day ma’am. Talking to you is like talking to a mentor,friend, teacher, mother. I am so happy to get a teacher like you who has helped me solve soo many doubts and also be so chill at the same time. I hope the best for your life. Many many happy returns of the day again!",
+    owner:'Anushi Gupta'
 }];
 msg.forEach(create)

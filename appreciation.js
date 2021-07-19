@@ -58,7 +58,7 @@ msg = [{
     owner:'Fathima Hannah Azeez'
 },
 {
-    msg:"## A teacher like you has so many great qualities, but one in particular that I respect the most is your patience. ## ## You always have time for your students and you never give up on them. You truly are as committed as you are wonderful. ## Happy birthday to you , ma'am ",
+    msg:"A teacher like you has so many great qualities, but one in particular that I respect the most is your patience. You always have time for your students and you never give up on them. You truly are as committed as you are wonderful. Happy birthday to you , ma'am ",
     owner:'Vaibhav Ghadi'
 },
 {

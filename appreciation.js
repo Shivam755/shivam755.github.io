@@ -42,7 +42,7 @@ msg = [{
     owner:'Aniket Gami'
 },
 {
-    msg:"My message for Edith ma'am.Wish you many many happy returns of the day Edith ma'am. We all haven't seen each other since start of our college but from the first day itself it has been a great happiness and excitement  to attend your lecture.Thankyou so much ma'am for always supporting us ,for always understanding us and motivating us.Wishing you a very happy birthday once again",
+    msg:"Wish you many many happy returns of the day Edith ma'am. We all haven't seen each other since start of our college but from the first day itself it has been a great happiness and excitement  to attend your lecture.Thankyou so much ma'am for always supporting us ,for always understanding us and motivating us.Wishing you a very happy birthday once again",
     owner:'Varada Bapat'
 },
 {
@@ -55,7 +55,7 @@ msg = [{
 },
 {
     msg:"Age passes with days, so the birthdays. The only thing which remains behind is memories. The memories to behold!! May you be blessed with wonderful memories!! Many many happy returns of the day Edith ma'am!!",
-    owner:'Fathima Hannah'
+    owner:'Fathima Hannah Azeez'
 },
 {
     msg:"## A teacher like you has so many great qualities, but one in particular that I respect the most is your patience. ## ## You always have time for your students and you never give up on them. You truly are as committed as you are wonderful. ## Happy birthday to you , ma'am ",
@@ -83,5 +83,23 @@ msg = [{
 },{
     msg:"A teacher like you has so many great qualities, but one in particular that I respect the most is your patience.You always have time for your students and you never give up on them. It is truly heart touching how much you care about your students and their success. I personally am very grateful for all that you do, and I know that all my classmates think that too. Happy birthday Ma'am",
     owner:'Janhavi Parab'
+},{
+    msg:"Happy Birthday to our favourite and  most enthusiastic teacher of our Department . May God bless you with good health and prosperity .",
+    owner:'Bhumika Vesvikar'
+},{
+    msg:"Thank you ma'am....for being the most patient and kind teacher. Actually thank you for being you. Being a versatile teacher you accepted a virtual mischievous class (not seeing their faces) and yet giving best to put right knowledge across... That's inspiring. Thank you for being as you are! Have a great time.",
+    owner:'Tejas Pophale'
+},{
+    msg:"Happy Birthday Edith ma'am! We really enjoy learning when you're teaching.  Thank you ma'am for everything. Keep guiding us. Blessed to have a teacher like you!",
+    owner:'Anushka Pradhan'
+},{
+    msg:"Happiest Birthday to you Edith maam. God may bless you with lots of blessings just like we got you as a blessing",
+    owner:'Shrutika Gholap'
+},{
+    msg:"Happy Birthday Edith Ma'am, Thank you for being here with us to make our Academy life Special",
+    owner:'Uzair Khan'
+},{
+    msg:"Happiest birthday Edith ma'am. May your birthday be sprinkled with fun and laughter. Have a great day and a wonderful year ahead!..",
+    owner:'Ritesh Supe'
 }];
 msg.forEach(create)

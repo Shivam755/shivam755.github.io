@@ -104,5 +104,8 @@ msg = [{
 },{
     msg:"I wish you a  very Happy Birthday and many more to come! You are a teacher who cares with the kindest heart and the most beautiful soul, and I feel very grateful and fortunate to say that I have been a student of yours!",
     owner:'Sarthak Jadhav'
+},{
+    msg:"Happy Birthday Edith ma'am .  Thank you for your constant love and support.",
+    owner:'Purva Gawde'
 }];
 msg.forEach(create)
